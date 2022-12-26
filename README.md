@@ -29,7 +29,7 @@ Como achar essas informações?
 
 3. Rode o projeto
 ```
-yarn start
+yarn start || npm start
 ```
 
 ## Páginas

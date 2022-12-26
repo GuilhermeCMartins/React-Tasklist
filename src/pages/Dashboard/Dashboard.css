@@ -1,0 +1,27 @@
+.dashboard {
+  display: flex;
+  width: 100%;
+  max-width: 60%;
+  margin: 0 auto;
+  justify-content: center;
+  border-radius: 20px;
+
+}
+.dashboard__container {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  justify-content: center;
+  background-color: #dcdcdc;
+  padding: 30px;
+  border-radius: 20px;
+}
+
+.dashboard div {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  margin-top: -5px;
+  padding: 1rem 1rem 0.75rem 1rem;
+
+}

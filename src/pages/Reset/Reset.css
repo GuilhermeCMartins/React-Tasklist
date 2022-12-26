@@ -1,0 +1,51 @@
+.reset {
+  height: 60vh;
+  width: 90vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.reset__container {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  background-color: #ffffff;
+  padding: 30px;
+  border-radius: 2rem;
+}
+.reset__textBox {
+  padding: 10px;
+  font-size: 18px;
+  margin-bottom: 10px;
+  border-radius: 20px;
+  border: 0.1rem solid
+}
+
+.link{
+  text-decoration: underline;
+}
+
+.link-styled a:hover{
+  color:  #4285f4;;
+}
+
+.reset__textBox:focus {
+  padding: 10px;
+  font-size: 18px;
+  margin-bottom: 10px;
+  border-radius: 20px;
+  border: 0.1rem solid #4285f4;
+}
+
+.reset__btn {
+  padding: 10px;
+  font-size: 18px;
+  margin-bottom: 10px;
+  border: none;
+  color: white;
+  background-color: black;
+  border-radius: 20px;
+}
+.reset div {
+  margin-top: 7px;
+}

@@ -1,0 +1,54 @@
+.register {
+  height: 60vh;
+  width: 90vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.register__container {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  background-color: #ffffff;
+  padding: 30px;
+  border-radius: 2rem;
+}
+.register__textBox {
+  padding: 10px;
+  font-size: 18px;
+  margin-bottom: 10px;
+  border-radius: 20px;
+  border: 0.1rem solid
+}
+
+.link{
+  text-decoration: underline;
+}
+
+.link a:hover{
+  color:  #4285f4;;
+}
+
+.register__textBox:focus {
+  padding: 10px;
+  font-size: 18px;
+  margin-bottom: 10px;
+  border-radius: 20px;
+  border: 0.1rem solid #4285f4;
+}
+
+.register__btn {
+  padding: 10px;
+  font-size: 18px;
+  margin-bottom: 10px;
+  border: none;
+  color: white;
+  background-color: black;
+  border-radius: 20px;
+}
+.register__google {
+  background-color: #4285f4;
+}
+.register div {
+  margin-top: 7px;
+}

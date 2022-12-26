@@ -72,5 +72,5 @@ Tela onde mostra quantas tasks o usuário possui, quantas estão em andamento e 
 
 1. Header
 
-Header que dropdown menu com todas opções de páginas.
+Header que contém um dropdown menu com todas opções de páginas.
 

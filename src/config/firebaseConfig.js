@@ -19,12 +19,13 @@ import {
 import { toast } from 'react-toastify';
 
 const firebaseConfig = {
-  apiKey: '',
-  authDomain: '',
-  projectId: '',
-  storageBucket: ',
-  messagingSenderId: '',
-  appId: '',
+  apiKey: "<sua api key>",
+  authDomain: "<seu auth domain>",
+  databaseURL: "<sua database url>",
+  projectId: "<seu projeto id>",
+  storageBucket: "<seu storage bucket>",
+  messagingSenderId: "<seu msg id>",
+  appId: "<seu app id>"
 };
 
 const app = initializeApp(firebaseConfig);

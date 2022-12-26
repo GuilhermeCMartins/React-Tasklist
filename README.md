@@ -6,8 +6,9 @@ Este aplicativo usa BootStrap5 como ajuda de desenvolvimento.
 ## Como rodar
 1. Instale as dependencias
 ```
-yarn
+yarn || npm i
 ```
+
 2. Modifique o arquivo `firebaseConfig.js`
 ```js
 const firebaseConfig = {

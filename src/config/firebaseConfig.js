@@ -19,12 +19,12 @@ import {
 import { toast } from 'react-toastify';
 
 const firebaseConfig = {
-  apiKey: 'AIzaSyAWx2gYHIXPxZsnUUB_WF11NJGIiYaNi78',
-  authDomain: 'task-list-3b2e6.firebaseapp.com',
-  projectId: 'task-list-3b2e6',
-  storageBucket: 'task-list-3b2e6.appspot.com',
-  messagingSenderId: '411428130615',
-  appId: '1:411428130615:web:1a413c7c67b3436512d4b2',
+  apiKey: '',
+  authDomain: '',
+  projectId: '',
+  storageBucket: ',
+  messagingSenderId: '',
+  appId: '',
 };
 
 const app = initializeApp(firebaseConfig);
